@@ -1,6 +1,6 @@
 具体介绍在博客里：
 
-https://l1nsn0w.gitee.io
+https://blog.linsnow.cn
 
 ## 我的配置
 
