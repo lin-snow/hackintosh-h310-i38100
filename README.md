@@ -2,6 +2,7 @@
 
 https://blog.linsnow.cn
 
+在博客里搜索对应文章即可，关键字为：hackintosh
 ## 我的配置
 
 这里简要的写一下
